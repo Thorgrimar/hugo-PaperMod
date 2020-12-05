@@ -1,11 +1,13 @@
 baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
 title: PaperMod
-paginate: 8
+paginate: 4
 theme: hugo-PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
 # googleAnalytics: UA-123-45
+
+relativeURLs: true
 
 minify:
   disableXML: true
